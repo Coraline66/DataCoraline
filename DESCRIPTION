@@ -1,0 +1,13 @@
+Package: DataCoraline
+Type: Package
+Date: 07-11-2019
+Title: Database
+Version: 0.1.0
+Author: Coraline <qux1@mskcc.org>
+Maintainer: Coraline <qux1@mskcc.org>
+Description: This package stores all project-related data sets.
+Depends: R (>= 2.10)
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
